@@ -1,0 +1,23 @@
+{
+  "name": "understanding-ts-2020-tutorial-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kfilip94/understanding-ts-2020-tutorial-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kfilip94/understanding-ts-2020-tutorial-app/issues"
+  },
+  "homepage": "https://github.com/kfilip94/understanding-ts-2020-tutorial-app#readme",
+  "dependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
